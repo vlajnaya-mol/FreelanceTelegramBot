@@ -1,1 +1,10 @@
 python-telegram-bot
+
+google-api-python-client
+oauth2client
+flask
+pycryptodome
+gunicorn
+psycopg2-binary
+html2text
+python-dateutil

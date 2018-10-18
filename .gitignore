@@ -59,4 +59,4 @@ target/
 
 .idea/
 credentials.json
-token.json
+*.json

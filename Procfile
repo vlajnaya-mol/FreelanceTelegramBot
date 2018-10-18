@@ -1,1 +1,1 @@
-web: python herokubot.py
+web: gunicorn my_app:app --preload --max-requests 1200
